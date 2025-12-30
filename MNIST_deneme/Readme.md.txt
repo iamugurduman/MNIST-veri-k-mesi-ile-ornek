@@ -1,1 +1,0 @@
-Mnist veri kumesi ile yapilmis deneme calismasi
