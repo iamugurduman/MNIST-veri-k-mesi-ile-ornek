@@ -1,0 +1,1 @@
+mnist veri kumesi ile deneme projesi yapildi
